@@ -1,2 +1,3 @@
 # hello-world
-First reporitory
+
+Hi, my name is Jaime, and I like code.
